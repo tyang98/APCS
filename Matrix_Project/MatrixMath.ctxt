@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MatrixMath
+comment0.text=\n\ Simulates\ matrix\ computations\ with\ two\ matrices.\n\ @author\ Tony\ Yang\n\ @version\ 1.11.18\n
+comment1.params=mat1\ mat2
+comment1.target=Matrix\ add(double[][],\ double[][])
+comment1.text=\n\ Adds\ two\ matrices\ of\ the\ same\ size\ together\n\ @param\ mat1\ The\ first\ matrix\ \n\ @param\ mat2\ The\ second\ matrix\n\ @return\ The\ matrix\ formed\ when\ mat1\ adds\ mat2\n
+comment2.params=mat1\ mat2
+comment2.target=Matrix\ subtract(double[][],\ double[][])
+comment2.text=\n\ Subtract\ two\ matrices\ of\ the\ same\ size\n\ @param\ mat1\ The\ first\ matrix\ \n\ @param\ mat2\ The\ second\ matrix\n\ @return\ The\ matrix\ formed\ when\ mat1\ subtracts\ mat2\n
+comment3.params=mat1\ mat2
+comment3.target=Matrix\ multiply(double[][],\ double[][])
+comment3.text=\n\ Multiply\ matrices\ together\ to\ form\ a\ new\ matrix\n\ @param\ mat1\ The\ first\ matrix\ \n\ @param\ mat2\ The\ second\ matrix\n\ @return\ The\ matrix\ formed\ when\ mat1\ is\ multiplied\ by\ mat2\n
+numComments=4

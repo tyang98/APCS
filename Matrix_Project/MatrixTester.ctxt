@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MatrixTester
+comment0.text=\n\ Tests\ the\ Matrix\ class\ and\ MatrixMath\ class\n\ @author\ Tony\ Yang\n\ @version\ 1.11.18\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

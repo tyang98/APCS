@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=KingCrab
+comment0.text=\n\ A\ <code>CrabCritter</code>\ looks\ at\ a\ limited\ set\ of\ neighbors\ when\ it\ eats\ and\ moves.\n\ <br\ />\n\ This\ class\ is\ not\ tested\ on\ the\ AP\ CS\ A\ and\ AB\ exams.\n
+comment1.params=
+comment1.target=KingCrab()
+comment2.params=
+comment2.target=java.util.ArrayList\ getActors()
+comment2.text=\n\ A\ crab\ gets\ the\ actors\ in\ the\ three\ locations\ immediately\ in\ front,\ to\ its\n\ front-right\ and\ to\ its\ front-left\n\ @return\ a\ list\ of\ actors\ occupying\ these\ locations\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getMoveLocations()
+comment3.text=\n\ @return\ list\ of\ empty\ locations\ immediately\ to\ the\ right\ and\ to\ the\ left\n
+comment4.params=actors
+comment4.target=void\ processActors(java.util.ArrayList)
+comment5.params=directions
+comment5.target=java.util.ArrayList\ getLocationsInDirections(int[])
+comment5.text=\n\ Finds\ the\ valid\ adjacent\ locations\ of\ this\ critter\ in\ different\n\ directions.\n\ @param\ directions\ -\ an\ array\ of\ directions\ (which\ are\ relative\ to\ the\n\ current\ direction)\n\ @return\ a\ set\ of\ valid\ locations\ that\ are\ neighbors\ of\ the\ current\n\ location\ in\ the\ given\ directions\n
+numComments=6

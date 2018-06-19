@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DisplayMap
+comment0.text=\n\ <code>DisplayMap</code>\ is\ a\ collection\ that\ maps\ grid\ occupant\n\ classes\ to\ objects\ that\ know\ how\ to\ display\ them.\ <br\ />\n\ This\ code\ is\ not\ tested\ on\ the\ AP\ CS\ A\ and\ AB\ exams.\ It\ contains\ GUI\n\ implementation\ details\ that\ are\ not\ intended\ to\ be\ understood\ by\ AP\ CS\n\ students.\n
+comment1.params=cl
+comment1.target=info.gridworld.gui.Display\ createDisplay(java.lang.Class)
+comment1.text=\n\ Associates\ a\ display\ object\ with\ a\ grid\ occupant\ class.\ \n\ @param\ the\ occupant\ class\n\ @return\ the\ ImageDisplay\ or\ (classname)Display\ object\ to\ display\ it,\ \n\ or\ null\ if\ none\ was\ found\n
+comment2.params=cl
+comment2.target=info.gridworld.gui.Display\ findDisplayFor(java.lang.Class)
+comment2.text=\n\ Finds\ a\ display\ class\ that\ knows\ how\ to\ display\ the\ given\ object.\n\ @param\ obj\ the\ object\ to\ display\n
+comment3.params=cl\ w\ h
+comment3.target=javax.swing.Icon\ getIcon(java.lang.Class,\ int,\ int)
+comment3.text=\n\ Gets\ an\ icon\ to\ display\ a\ class\ in\ a\ menu\n\ @param\ cl\ the\ class\n\ @param\ w\ the\ icon\ width\n\ @param\ h\ the\ icon\ height\n\ @return\ the\ icon\n
+numComments=4

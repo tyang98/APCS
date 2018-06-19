@@ -1,0 +1,12 @@
+Enter employee name: Hello
+Enter the number of hours worked: 1235.23
+Enter your wage: 12.0
+Your Paycheck: $21994.14
+Enter employee name: Joe
+Enter the number of hours worked: 12.43
+Enter your wage: 8.99
+Your Paycheck: $111.75
+Enter employee name: Seong
+Enter the number of hours worked: 43.25
+Enter your wage: 12.42
+Your Paycheck: $557.35

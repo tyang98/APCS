@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rock
+comment0.text=\n\ A\ <code>Rock</code>\ is\ an\ actor\ that\ does\ nothing.\ It\ is\ commonly\ used\ to\n\ block\ other\ actors\ from\ moving.\ <br\ />\n\ The\ API\ of\ this\ class\ is\ testable\ on\ the\ AP\ CS\ A\ and\ AB\ exams.\n
+comment1.params=
+comment1.target=Rock()
+comment1.text=\n\ Constructs\ a\ black\ rock.\n
+comment2.params=rockColor
+comment2.target=Rock(java.awt.Color)
+comment2.text=\n\ Constructs\ a\ rock\ of\ a\ given\ color.\n\ @param\ rockColor\ the\ color\ of\ this\ rock\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Overrides\ the\ <code>act</code>\ method\ in\ the\ <code>Actor</code>\ class\n\ to\ do\ nothing.\n
+numComments=4

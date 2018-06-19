@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bug
+comment0.text=\n\ A\ <code>Bug</code>\ is\ an\ actor\ that\ can\ move\ and\ turn.\ It\ drops\ flowers\ as\n\ it\ moves.\ <br\ />\n\ The\ implementation\ of\ this\ class\ is\ testable\ on\ the\ AP\ CS\ A\ and\ AB\ exams.\n
+comment1.params=
+comment1.target=Bug()
+comment1.text=\n\ Constructs\ a\ red\ bug.\n
+comment2.params=bugColor
+comment2.target=Bug(java.awt.Color)
+comment2.text=\n\ Constructs\ a\ bug\ of\ a\ given\ color.\n\ @param\ bugColor\ the\ color\ for\ this\ bug\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Moves\ if\ it\ can\ move,\ turns\ otherwise.\n
+comment4.params=
+comment4.target=void\ turn()
+comment4.text=\n\ Turns\ the\ bug\ 45\ degrees\ to\ the\ right\ without\ changing\ its\ location.\n
+comment5.params=
+comment5.target=void\ move()
+comment5.text=\n\ Moves\ the\ bug\ forward,\ putting\ a\ flower\ into\ the\ location\ it\ previously\n\ occupied.\n
+comment6.params=
+comment6.target=boolean\ canMove()
+comment6.text=\n\ Tests\ whether\ this\ bug\ can\ move\ forward\ into\ a\ location\ that\ is\ empty\ or\n\ contains\ a\ flower.\n\ @return\ true\ if\ this\ bug\ can\ move.\n
+numComments=7

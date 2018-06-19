@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=LocationEditor
+comment0.text=\n\ A\ property\ editor\ for\ the\ Location\ type.\ <br\ />\n\ This\ code\ is\ not\ tested\ on\ the\ AP\ CS\ A\ and\ AB\ exams.\ It\ contains\ GUI\n\ implementation\ details\ that\ are\ not\ intended\ to\ be\ understood\ by\ AP\ CS\n\ students.\n
+comment1.params=
+comment1.target=LocationEditor()
+comment2.params=
+comment2.target=java.lang.Object\ getValue()
+comment3.params=newValue
+comment3.target=void\ setValue(java.lang.Object)
+comment4.params=
+comment4.target=boolean\ supportsCustomEditor()
+comment5.params=
+comment5.target=java.awt.Component\ getCustomEditor()
+numComments=6

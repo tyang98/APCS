@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Jumper
+comment0.text=\n\ Simulates\ a\ Jumper\n\ @author\ Tony\ Yang\n\ @version\ 4.6.18\n
+comment1.params=
+comment1.target=Jumper()
+comment1.text=\n\ Constructs\ a\ red\ bug.\n
+comment2.params=jumperColor
+comment2.target=Jumper(java.awt.Color)
+comment2.text=\n\ Constructs\ a\ jumper\ of\ a\ given\ color.\n\ @param\ jumperColor\ the\ color\ for\ this\ jumper\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Moves\ if\ it\ can\ move,\ turns\ otherwise.\n
+comment4.params=
+comment4.target=void\ turn()
+comment4.text=\n\ Turns\ the\ jumper\ 45\ degrees\ to\ the\ right\ without\ changing\ its\ location.\n
+comment5.params=
+comment5.target=void\ jump()
+comment5.text=\n\ Allows\ the\ jumper\ to\ jump\ forward\n
+comment6.params=
+comment6.target=boolean\ canJump()
+comment6.text=\n\ Tests\ whether\ this\ jumper\ can\ jump\ forward\ into\ a\ location\n\ @return\ true\ if\ this\ jumper\ can\ jump.\n
+numComments=7
